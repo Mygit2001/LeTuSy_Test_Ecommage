@@ -18,7 +18,7 @@ header {
   gap: 80px;
 
   width: 1440px;
-  height: 3700px;
+  height: auto;
 }
 .navbar_header {
   display: flex;

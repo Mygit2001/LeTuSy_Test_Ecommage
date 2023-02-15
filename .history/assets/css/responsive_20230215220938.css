@@ -1,0 +1,40 @@
+/* PC */
+@media(min-width:64em){
+    .btn-open-mobile {
+       display: none;
+    }
+    .menu-head-mobile {
+        display: none;
+    }
+    .btn-close-mobile {
+        display: none;
+    }
+}
+
+
+/* mobile */
+@media(max-width:46.1875em) {
+    .row {
+        display: block;
+    }
+    .col-sm-12 {
+        width: 100%;
+    }
+    .col-sm-6 {
+        width: 50%;
+    }
+    .menu,.navitem-right {
+        display:none;
+    }
+}
+
+/* Tablet */
+@media(min-width:46.25em) and (max-width:63.9375em){
+    
+      
+}
+
+ /* mobile and tablet */
+@media(max-width:63.9375em) {
+    
+}

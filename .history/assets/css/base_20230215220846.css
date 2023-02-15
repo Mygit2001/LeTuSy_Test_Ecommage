@@ -1,0 +1,51 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+header {
+}
+.default-butn {
+  text-align: center;
+  padding: 10px 10px;
+  width: 135px;
+  height: 40px;
+  color: #fff;
+  font-family: "Mulish", sans-serif;
+  outline: none;
+  border: none;
+  font-weight: 700;
+  background-color: #3c64b1;
+}
+.default-butn2 {
+  text-align: center;
+  padding: 10px 20px;
+  width: 116px;
+  height: 40px;
+  border: 1px solid #3c64b1;
+  color: #3C64B1;
+  font-weight: 600;
+  font-family: "Mulish", sans-serif;
+}
+.s-30 {
+    width: 30px;
+    height: 30px;
+}
+.cus-bgImg {
+  flex: none;
+  flex-grow: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.fw-600 {
+  font-weight: 600;
+}
+.fw-700 {
+  font-weight: 700;
+}
+.fs-18 {
+  font-size: 18px;
+}
+.d-none {
+  d
+}

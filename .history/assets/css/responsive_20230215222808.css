@@ -1,0 +1,46 @@
+/* PC */
+@media(min-width:64em){
+    .bar-icon {
+        display: none;
+    }
+
+}
+
+
+/* mobile */
+@media(max-width:46.1875em) {
+    .row {
+        display: block;
+    }
+    .col-sm-12 {
+        width: 100%;
+    }
+    .col-sm-6 {
+        width: 50%;
+    }
+    .menu,.navitem-right {
+        display:none;
+    }
+}
+
+/* Tablet */
+@media(min-width:46.25em) and (max-width:63.9375em){
+    
+      
+}
+
+ /* mobile and tablet */
+@media(max-width:63.9375em) {
+    .bar-icon {
+        display: block !important;
+    }
+    .navbar_header {
+        width: 100%;
+    }
+    .container, .main_intro, .main_intro-content {
+        width: auto;
+    }
+    .main_intro-content-text {
+        font-size: 16px;
+    }
+}
